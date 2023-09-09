@@ -1,2 +1,2 @@
-# index
+# Musify
 Musify :- used to  access songs
